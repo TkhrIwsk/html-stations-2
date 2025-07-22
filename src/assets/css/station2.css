@@ -17,3 +17,12 @@
   height: 300px;
   background-color: #3cb371;
 }
+
+.red
+{
+  float:left;
+}
+.blue
+{
+  float:right;
+}
