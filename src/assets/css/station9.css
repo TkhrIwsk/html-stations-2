@@ -1,0 +1,16 @@
+#animation
+{
+    /*遅延時間なし*/
+    animation-delay:0s;
+    animation : fadein 10s ease-in-out forwards;
+}
+
+@keyframes fadein
+{
+    from{
+        opacity:1;
+    }
+    to{
+        opacity: 1;
+    }
+}
